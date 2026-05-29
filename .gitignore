@@ -1,0 +1,21 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Large files and generated output
+*.zip
+jadx_out/
+mlc-chat-extracted/
+app/src/main/jniLibs/arm64-v8a/libtvm4j_runtime_packed.so
